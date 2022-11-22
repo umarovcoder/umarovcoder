@@ -5,4 +5,4 @@
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Instagram - @alisher_umarov_code
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 7 hourse listening songs everyday
+- ⚡ Fun fact: I spend almost 7 hours listening songs everyday
