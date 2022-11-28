@@ -1,7 +1,7 @@
 ### Hi I'm Alisher Umarov 👋
 
 - 🔭 I’m currently working on Idrok ta'lim
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Nextjs
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: Instagram - @alisher_umarov_code
 - 😄 Pronouns: He/His
