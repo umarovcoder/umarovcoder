@@ -47,8 +47,9 @@
           
 
 <hr>
+
 #
 
-### stats
+### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisher-umarov&show_icons=true&theme=prussian)
