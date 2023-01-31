@@ -1,7 +1,7 @@
-### <h1 style="text-align: center">Hi I'm Alisher Umarov 👋</h1>
+### <h1 align='center'>Hi I'm Alisher Umarov 👋</h1>
 
 
-<h2 align='center'>🧰 Languages and Tools</h2>
+<h2>🧰 Languages and Tools</h2>
 
 <img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
