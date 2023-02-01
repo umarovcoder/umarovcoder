@@ -56,4 +56,4 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=alisher=umarov&theme=prussian)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisher-umarov&show_icons=true&theme=prussian)
