@@ -1,4 +1,4 @@
-### <h1 align='center'>Yo wassup I'm Alisher Umarov 🤙</h1>
+### <h1 align='center'>Yo wassup, I'm Alisher Umarov 🤙</h1>
 
 
 <h3>🧰Languages and Tools</h3>
