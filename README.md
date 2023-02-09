@@ -57,3 +57,8 @@
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisher-umarov&show_icons=true&theme=prussian)
+
+#
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov)](https://github.com/Alisher-Umarov/github-readme-activity-graph)
