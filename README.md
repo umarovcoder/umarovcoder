@@ -67,4 +67,4 @@
 #
 ###
 
-![](https://raw.githubusercontent.com/username=Alisher-Umarov/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[!](https://raw.githubusercontent.com/username=Alisher-Umarov/github-stats/master/generated/overview.svg#gh-dark-mode-only)
