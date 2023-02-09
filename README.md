@@ -61,4 +61,4 @@
 #
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov)](https://github.com/Alisher-Umarov/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov&theme=react)](https://github.com/Alisher-Umarov/github-readme-activity-graph)
