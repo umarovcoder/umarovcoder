@@ -62,9 +62,3 @@
 ###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov&theme=react)](https://github.com/Alisher-Umarov/github-readme-activity-graph)
-
-
-#
-###
-
-[!](https://raw.githubusercontent.com/username=Alisher-Umarov/github-stats/master/generated/overview.svg#gh-dark-mode-only)
