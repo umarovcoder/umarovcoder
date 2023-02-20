@@ -60,12 +60,12 @@
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisher-umarov&show_icons=true&theme=react)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamato-nagai&show_icons=true&theme=react)
 
 #
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov&theme=react)](https://github.com/Alisher-Umarov/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alisher-Umarov&theme=react)](https://github.com/yamato-nagai/github-readme-activity-graph)
 
 
 <br/>
