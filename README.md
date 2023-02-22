@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align='center'>Yo wassup, I'm Yamato Nagai 🤙</h1>
+<h1 align='center'>Yo wassup, I'm Yamato Nagai (┬┬﹏┬┬)</h1>
 
 
 <h3>🧰Languages and Tools</h3>
