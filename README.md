@@ -65,7 +65,6 @@
 #
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yamato-nagai&theme=react)](https://github.com/yamato-nagai/github-readme-activity-graph)
 
 
 <br/>
