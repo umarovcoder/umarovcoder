@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align='center'>Yo wassup, I'm Alisher Umarov (￣o￣) . z Z</h1>
+<h1 align='center'>Hi, I'm Alisher Umarov (￣o￣) . z Z</h1>
 
 
 
