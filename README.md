@@ -1,72 +1,39 @@
+### Hi, I'm Alisher Umarov ( ༼ ○ ༽ ) . z Z
 
-<div align="center">
-<h1 align='center'>Hi, I'm Alisher Umarov (￣o￣) . z Z</h1>
+---
 
+#### 🚀 About Me:
+- 👨‍💻 Frontend Developer | Linux Lover 🐧
+- 💡 Interested in Open Source, Web Development & Automation
+- 🌍 Working on exciting web projects
+- 📫 Contact me: [LinkedIn](#) | [Telegram](#)
 
+---
 
-<!-- <h3>🧰Languages and Tools</h3>
+### 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+---
 
+### 📊 GitHub Stats & Trophies
+![Alisher's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarovcoder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarovcoder&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=umarovcoder&theme=darkhub&row=1&column=7)
 
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+---
 
+### 📌 Featured Projects
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=umarovcoder&repo=project1&theme=radical)](https://github.com/umarovcoder/project1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=umarovcoder&repo=project2&theme=radical)](https://github.com/umarovcoder/project2)
 
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-          
+---
 
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+### 🎯 Latest Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarovcoder&theme=radical)
 
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-          
-          
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-          
-
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-          
-
-
-<img align='left' width='30px' style='padding-right: 10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> -->
-
-               
-# 
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarovcoder&show_icons=true&theme=react)
-
-#
-###
-
-
-
-<br/>
-
-
-</div>
+🔥 *"Code, Create, Contribute!"* 🔥
