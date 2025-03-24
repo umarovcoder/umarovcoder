@@ -1,15 +1,21 @@
 
+Wake up, Alisher...
+
+███╗   ███╗ █████╗ ████████╗██████╗  ██████╗ ██╗  ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██╔═══██╗██║  ██║
+██╔████╔██║███████║   ██║   ██████╔╝██║   ██║███████║
+██║╚██╔╝██║██╔══██║   ██║   ██╔═══╝ ██║   ██║██╔══██║
+██║ ╚═╝ ██║██║  ██║   ██║   ██║     ╚██████╔╝██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═╝
+
 $ whoami
-Alisher Umarov - Frontend Developer | Linux Lover 🐧
+👨‍💻 Alisher Umarov - Frontend Developer | Linux Lover 🐧
 
 $ echo "Interests: Open Source, Web Development & Automation"
-Interests: Open Source, Web Development & Automation
-
-$ contact --list
-📫 LinkedIn: [Link](#)  |  Telegram: [Link](#)
+💡 Interests: Open Source, Web Development & Automation
 
 $ ls -l Tech_Stack
--rw-r--r-- HTML5   CSS3   JavaScript   React   Tailwind CSS   Linux
+🚀 HTML5   CSS3   JavaScript   React   Tailwind CSS   Linux
 
 $ cat github_stats.txt
 ------------------------------------------
@@ -19,7 +25,7 @@ $ cat github_stats.txt
 | 🏆 Trophies: Many!                    |
 | 🔥 Streak: [🔥🔥🔥🔥🔥🔥🔥🔥🔥]  |
 ------------------------------------------
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarovcoder&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarovcoder&theme=matrix)
 
 $ tree Projects
 .
@@ -31,5 +37,5 @@ $ tree Projects
 │   └── Description: Even more awesome!
 
 $ fortune
-"Code, Create, Contribute! 🚀"
+"There is no spoon. Just Code. 🚀"
 
