@@ -1,19 +1,27 @@
-🚨 Classified Developer Profile Detected...
+$ whoami
+👤 Alisher Umarov - Frontend Developer | Linux Enthusiast
 
-🕵️ Identity Confirmed: Alisher Umarov
-🔓 Access Level: ROOT
+$ uname -a
+🖥️ OS: Linux 🐧 | Shell: Bash | Coding in: HTML, CSS, JS, React
 
-$ decrypt --key=umarovcoder
-✅ Decryption Successful. Loading Repositories...
+$ neofetch
+    ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⢀⣴⠟⠻⣦⡀⠀⢀⣠⠞⠻⣦⡀⠀
+  ⠀⠀⣿⡇⠀⠈⠙⢿⡿⠋⠁⠀⢸⣿⠀
+  ⠀⠀⠻⢿⡀⠀⣴⠾⢷⡀⠀⣸⠟⠀
+  ⠀⠀⠀⠀⠙⠛⠁⠀⠀⠙⠛⠁⠀⠀⠀
+📂 Hostname: umarovcoder@github
+🖥️ Uptime: 5+ years in coding
+🛠️ Tools: Vim, Git, WebStorm, VS Code
 
-$ ls -l ~/repositories
-📂 Top Secret Frontend Project
-📂 Linux Automation Scripts
-📂 React UI Components
+$ cat github_stats.log
+📊 Commits: 56 | ⭐ Stars: 19 | 🏆 Trophies: 🏅🏅🏅
 
-$ STATUS: ACTIVE | 🔥 Commits in Progress...
+$ ls ~/projects
+📂 React_Components  📂 Linux_Scripts  📂 Frontend_Tools
 
-📡 Transmitting code... [██████████] 100%
+$ sudo apt-get install success
+✅ Installation Complete. Ready to Code!
 
-$ echo "Mission Accomplished. See you at the next commit."
-🎯 Mission Accomplished. See you at the next commit.
+$ echo "Keep it simple. Keep it Linux."
+🐧 Keep it simple. Keep it Linux.
