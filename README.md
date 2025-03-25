@@ -6,14 +6,6 @@ $ whoami
 $ uname -a
 🖥️ OS: Linux 🐧 | Shell: Bash | Coding in: HTML, CSS, JS, React
 
-$ neofetch
-      .--.
-     |o_o |
-     |:_/ |
-    //   \ \
-   (|     | )
-  /'\_   _/`\
-  \___)=(___/
 📂 Hostname: umarovcoder@github
 🖥️ Uptime: 5+ years in coding
 🛠️ Tools: Vim, Git, WebStorm, VS Code
