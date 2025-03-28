@@ -4,7 +4,7 @@ $ whoami
 👤 Alisher Umarov - Frontend Developer | Linux Enthusiast
 
 $ uname -a
-🖥️ OS: Linux 🐧 | Shell: Bash | Coding in: HTML, CSS, JS, React, Typescript
+🖥️ OS: Linux 🐧 | Shell: Bash | Coding in: HTML, CSS, JS, React, Redux, Typescript
 
 📂 Hostname: umarovcoder@github
 🖥️ Uptime: 5+ years in coding
