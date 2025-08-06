@@ -19,7 +19,6 @@ A simple blog platform built with TypeScript and React. Clean routing, reusable 
 ## 📊 GitHub Stats
 
 ![UmarovCoder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarovcoder&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarovcoder&layout=compact)
 
 ## 📬 Contact
 
